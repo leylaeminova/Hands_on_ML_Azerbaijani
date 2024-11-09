@@ -11,7 +11,7 @@ The book offers practical insights into machine learning with hands-on examples 
 - [**Chapter 4:** Şamil Mehdiyev](https://github.com/Lala2398/Hands_on_ML_Azerbaijani/blob/main/Chapter_4.pdf)
 - **Chapter 5:** Leyla Eminova
 - [**Chapter 6:** Ləman Cəfərli](https://github.com/Lala2398/Hands_on_ML_Azerbaijani/blob/main/Chapter_6.pdf)
-- **Chapter 7:** (TBA)
+- **Chapter 7:** (Free)
 - [**Chapter 8:** Ləman Cəfərli](https://github.com/Lala2398/Hands_on_ML_Azerbaijani/blob/main/Chapter%208.pdf)
 - **Chapter 9:** Nubar Asgarli
 - **Chapter 10:** Nubar Asgarli
@@ -19,10 +19,10 @@ The book offers practical insights into machine learning with hands-on examples 
 - **Chapter 12:** Şamil Mehdiyev
 - **Chapter 13:** Lalə İbadullayeva
 - **Chapter 14:** Sitarə Ağayeva
-- **Chapter 15:** (TBA)
-- **Chapter 16:** (TBA)
-- **Chapter 17:** (TBA)
-- **Chapter 18:** (TBA)
+- **Chapter 15:** (Free)
+- **Chapter 16:** (Free)
+- **Chapter 17:** (Free)
+- **Chapter 18:** (Free)
 - [**Chapter 19:** Ibrahim Nizami oğlu | Review: Nihad Hashimov](https://github.com/Lala2398/Hands_on_ML_Azerbaijani/blob/main/Chapter%2019.pdf)
 - [**Introduction:** Ibrahim Nizami oğlu | Review: Nihad Hashimov](https://github.com/Lala2398/Hands_on_ML_Azerbaijani/blob/main/Introduction.pdf)
 
@@ -43,7 +43,7 @@ Kitab, məşhur Python kitabxanalarından istifadə edərək maşın öyrənməs
 - **Fəsil 4:** Şamil Mehdiyev
 - **Fəsil 5:** Leyla Eminova
 - **Fəsil 6:** Ləman Cəfərli
-- **Fəsil 7:** (TBA)
+- **Fəsil 7:** (Free)
 - **Fəsil 8:** Ləman Cəfərli
 - **Fəsil 9:** Nubar Asqarlı
 - **Fəsil 10:** Nubar Asqarlı
@@ -51,10 +51,10 @@ Kitab, məşhur Python kitabxanalarından istifadə edərək maşın öyrənməs
 - **Fəsil 12:** Şamil Mehdiyev
 - **Fəsil 13:** Lalə İbadullayeva
 - **Fəsil 14:** Sitarə Ağayeva
-- **Fəsil 15:** (TBA)
-- **Fəsil 16:** (TBA)
-- **Fəsil 17:** (TBA)
-- **Fəsil 18:** (TBA)
+- **Fəsil 15:** (Free)
+- **Fəsil 16:** (Free)
+- **Fəsil 17:** (Free)
+- **Fəsil 18:** (Free)
 - **Fəsil 19:** İbrahim Nizami oğlu | Rəy: Nihad Haşımov
 - **Giriş:** İbrahim Nizami oğlu | Rəy: Nihad Haşımov
 
