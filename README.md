@@ -8,11 +8,11 @@ The book offers practical insights into machine learning with hands-on examples 
 - **Chapter 1:** Lalə İbadullayeva
 - **Chapter 2:** Sitarə Ağayeva
 - **Chapter 3:** Nihad Hashimov
-- **Chapter 4:** Şamil Mehdiyev
+- [**Chapter 4:** Şamil Mehdiyev](https://github.com/Lala2398/Hands_on_ML_Azerbaijani/blob/main/Chapter_4.pdf)
 - **Chapter 5:** Leyla Eminova
-- **Chapter 6:** Ləman Cəfərli
+- [**Chapter 6:** Ləman Cəfərli](https://github.com/Lala2398/Hands_on_ML_Azerbaijani/blob/main/Chapter_6.pdf)
 - **Chapter 7:** (TBA)
-- **Chapter 8:** Ləman Cəfərli
+- [**Chapter 8:** Ləman Cəfərli](https://github.com/Lala2398/Hands_on_ML_Azerbaijani/blob/main/Chapter%208.pdf)
 - **Chapter 9:** Nubar Asgarli
 - **Chapter 10:** Nubar Asgarli
 - **Chapter 11:** Nihad Hashimov
@@ -23,8 +23,8 @@ The book offers practical insights into machine learning with hands-on examples 
 - **Chapter 16:** (TBA)
 - **Chapter 17:** (TBA)
 - **Chapter 18:** (TBA)
-- **Chapter 19:** Ibrahim Nizami oğlu | Review: Nihad Hashimov
-- **Introduction:** Ibrahim Nizami oğlu | Review: Nihad Hashimov
+- [**Chapter 19:** Ibrahim Nizami oğlu | Review: Nihad Hashimov](https://github.com/Lala2398/Hands_on_ML_Azerbaijani/blob/main/Chapter%2019.pdf)
+- [**Introduction:** Ibrahim Nizami oğlu | Review: Nihad Hashimov](https://github.com/Lala2398/Hands_on_ML_Azerbaijani/blob/main/Introduction.pdf)
 
 Our team worked hard to ensure the accuracy and clarity of the translation. We hope this effort helps you in your machine learning journey. Feel free to open issues for any mistakes or improvements, and contribute to the repository!
 
