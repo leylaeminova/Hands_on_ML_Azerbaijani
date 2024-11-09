@@ -28,9 +28,9 @@ The book offers practical insights into machine learning with hands-on examples 
 
 Our team worked hard to ensure the accuracy and clarity of the translation. We hope this effort helps you in your machine learning journey. Feel free to open issues for any mistakes or improvements, and contribute to the repository!
 
-### GitHub Repo Description (Azerbaijani):
 
-**Əl ilə Maşın Öyrənməsi (Azərbaycan Tərtib)**
+
+# Əl ilə Maşın Öyrənməsi (Azərbaycanca Tərtib)
 
 Bu, *Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow* kitabının Azərbaycan dilinə tərcüməsidir. Bu depo, Azərbaycan dilindəki tərcümə edilmiş fəsilləri təqdim edir, burada bizim töhfə verən komanda üzvlərimiz bu dəyərli resursu Azərbaycan dilli maşın öyrənmə icmasına təqdim etmək üçün fəal şəkildə işləyiblər.
 
@@ -59,3 +59,5 @@ Kitab, məşhur Python kitabxanalarından istifadə edərək maşın öyrənməs
 - **Giriş:** İbrahim Nizami oğlu | Rəy: Nihad Haşımov
 
 Komandamız tərcümənin düzgünlüyü və aydınlığını təmin etmək üçün çox çalışıb. Ümid edirik ki, bu təşəbbüs maşın öyrənməsi yolunda sizə kömək edəcək. Hər hansı bir səhv və ya təkmilləşdirmə üçün məsələlər açmağa və depoya töhfə verməyə dəvət edirik!
+
+Project started from 20.11.2023 
