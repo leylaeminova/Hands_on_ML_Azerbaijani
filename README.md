@@ -5,7 +5,7 @@ Welcome to the Azerbaijani translation of the book *Hands-on Machine Learning wi
 The book offers practical insights into machine learning with hands-on examples using popular Python libraries. Our goal was to make this knowledge accessible to more learners, practitioners, and researchers in Azerbaijan and beyond.
 
 ### Contributors:
-- **Chapter 1:** Lala İbadullayeva
+- [**Chapter 1:** Lala İbadullayeva](https://github.com/Lala2398/Hands_on_ML_Azerbaijani/blob/main/Chapter%201.pdf)
 - **Chapter 2:** Sitara Aghayeva
 - **Chapter 3:** Nihad Hashimov
 - [**Chapter 4:** Şamil Mehdiyev](https://github.com/Lala2398/Hands_on_ML_Azerbaijani/blob/main/Chapter_4.pdf)
