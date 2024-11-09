@@ -5,14 +5,14 @@ Welcome to the Azerbaijani translation of the book *Hands-on Machine Learning wi
 The book offers practical insights into machine learning with hands-on examples using popular Python libraries. Our goal was to make this knowledge accessible to more learners, practitioners, and researchers in Azerbaijan and beyond.
 
 ### Contributors:
-- [**Chapter 1:** Lala İbadullayeva](https://github.com/Lala2398/Hands_on_ML_Azerbaijani/blob/main/Chapter%201.pdf)
+- [**Chapter 1:** Lala İbadullayeva](https://github.com/Lala2398/Hands_on_ML_Azerbaijani/blob/main/Chapter%201.pdf) | without review
 - **Chapter 2:** Sitara Aghayeva
 - **Chapter 3:** Nihad Hashimov
-- [**Chapter 4:** Şamil Mehdiyev](https://github.com/Lala2398/Hands_on_ML_Azerbaijani/blob/main/Chapter_4.pdf)
+- [**Chapter 4:** Şamil Mehdiyev](https://github.com/Lala2398/Hands_on_ML_Azerbaijani/blob/main/Chapter_4.pdf) | without review
 - **Chapter 5:** Leyla Eminova
-- [**Chapter 6:** Laman Jafarli](https://github.com/Lala2398/Hands_on_ML_Azerbaijani/blob/main/Chapter_6.pdf)
+- [**Chapter 6:** Laman Jafarli](https://github.com/Lala2398/Hands_on_ML_Azerbaijani/blob/main/Chapter_6.pdf) | without review
 - **Chapter 7:** (Free)
-- [**Chapter 8:** Laman Jafarli](https://github.com/Lala2398/Hands_on_ML_Azerbaijani/blob/main/Chapter%208.pdf)
+- [**Chapter 8:** Laman Jafarli](https://github.com/Lala2398/Hands_on_ML_Azerbaijani/blob/main/Chapter%208.pdf) | without review
 - **Chapter 9:** Nubar Asgarli
 - **Chapter 10:** Nubar Asgarli
 - **Chapter 11:** Nihad Hashimov
