@@ -30,7 +30,7 @@ Our team worked hard to ensure the accuracy and clarity of the translation. We h
 
 
 
-# Əl ilə Maşın Öyrənməsi (Azərbaycanca Tərtib)
+# Tətbiqləri ilə Maşın Öyrənməsi (Azərbaycanca Tərtib)
 
 Bu, *Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow* kitabının Azərbaycan dilinə tərcüməsidir. Bu depo, Azərbaycan dilindəki tərcümə edilmiş fəsilləri təqdim edir, burada bizim töhfə verən komanda üzvlərimiz bu dəyərli resursu Azərbaycan dilli maşın öyrənmə icmasına təqdim etmək üçün fəal şəkildə işləyiblər.
 
