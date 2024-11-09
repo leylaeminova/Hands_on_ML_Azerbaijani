@@ -5,8 +5,8 @@ Welcome to the Azerbaijani translation of the book *Hands-on Machine Learning wi
 The book offers practical insights into machine learning with hands-on examples using popular Python libraries. Our goal was to make this knowledge accessible to more learners, practitioners, and researchers in Azerbaijan and beyond.
 
 ### Contributors:
-- **Chapter 1:** Lalə İbadullayeva
-- **Chapter 2:** Sitarə Ağayeva
+- **Chapter 1:** Lala İbadullayeva
+- **Chapter 2:** Sitara Aghayeva
 - **Chapter 3:** Nihad Hashimov
 - [**Chapter 4:** Şamil Mehdiyev](https://github.com/Lala2398/Hands_on_ML_Azerbaijani/blob/main/Chapter_4.pdf)
 - **Chapter 5:** Leyla Eminova
@@ -16,9 +16,9 @@ The book offers practical insights into machine learning with hands-on examples 
 - **Chapter 9:** Nubar Asgarli
 - **Chapter 10:** Nubar Asgarli
 - **Chapter 11:** Nihad Hashimov
-- **Chapter 12:** Şamil Mehdiyev
-- **Chapter 13:** Lalə İbadullayeva
-- **Chapter 14:** Sitarə Ağayeva
+- **Chapter 12:** Shamil Mehdiyev
+- **Chapter 13:** Lala Ibadullayeva
+- **Chapter 14:** Sitara Aghayeva
 - **Chapter 15:** (Free)
 - **Chapter 16:** (Free)
 - **Chapter 17:** (Free)
@@ -39,7 +39,7 @@ Kitab, məşhur Python kitabxanalarından istifadə edərək maşın öyrənməs
 ### Töhfə Verənlər:
 - **Fəsil 1:** Lalə İbadullayeva
 - **Fəsil 2:** Sitarə Ağayeva
-- **Fəsil 3:** Nihad Haşımov
+- **Fəsil 3:** Nihad Həşimov
 - **Fəsil 4:** Şamil Mehdiyev
 - **Fəsil 5:** Leyla Eminova
 - **Fəsil 6:** Ləman Cəfərli
@@ -47,7 +47,7 @@ Kitab, məşhur Python kitabxanalarından istifadə edərək maşın öyrənməs
 - **Fəsil 8:** Ləman Cəfərli
 - **Fəsil 9:** Nubar Asqarlı
 - **Fəsil 10:** Nubar Asqarlı
-- **Fəsil 11:** Nihad Haşımov
+- **Fəsil 11:** Nihad Həşimov
 - **Fəsil 12:** Şamil Mehdiyev
 - **Fəsil 13:** Lalə İbadullayeva
 - **Fəsil 14:** Sitarə Ağayeva
@@ -55,8 +55,8 @@ Kitab, məşhur Python kitabxanalarından istifadə edərək maşın öyrənməs
 - **Fəsil 16:** (Free)
 - **Fəsil 17:** (Free)
 - **Fəsil 18:** (Free)
-- **Fəsil 19:** İbrahim Nizami oğlu | Rəy: Nihad Haşımov
-- **Giriş:** İbrahim Nizami oğlu | Rəy: Nihad Haşımov
+- **Fəsil 19:** İbrahim Nizami oğlu | Rəy: Nihad Həşimov
+- **Giriş:** İbrahim Nizami oğlu | Rəy: Nihad Həşimov
 
 Komandamız tərcümənin düzgünlüyü və aydınlığını təmin etmək üçün çox çalışıb. Ümid edirik ki, bu təşəbbüs maşın öyrənməsi yolunda sizə kömək edəcək. Hər hansı bir səhv və ya təkmilləşdirmə üçün məsələlər açmağa və depoya töhfə verməyə dəvət edirik!
 
