@@ -32,9 +32,9 @@ Our team worked hard to ensure the accuracy and clarity of the translation. We h
 
 # Tətbiqləri ilə Maşın Öyrənməsi (Azərbaycanca Tərtib)
 
-Bu, *Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow* kitabının Azərbaycan dilinə tərcüməsidir. Bu depo, Azərbaycan dilindəki tərcümə edilmiş fəsilləri təqdim edir, burada bizim töhfə verən komanda üzvlərimiz bu dəyərli resursu Azərbaycan dilli maşın öyrənmə icmasına təqdim etmək üçün fəal şəkildə işləyiblər.
+Bu, *Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow* kitabının Azərbaycan dilinə tərcüməsidir. Bu repo, Azərbaycan dilindəki tərcümə edilmiş fəsilləri təqdim edir, burada bizim töhfə verən komanda üzvlərimiz bu resursu Azərbaycan dilli maşın öyrənmə icmasına təqdim etmək üçün fəal şəkildə işləyiblər.
 
-Kitab, məşhur Python kitabxanalarından istifadə edərək maşın öyrənməsi haqqında praktik anlayışlar və tətbiqi nümunələr təklif edir. Bizim məqsədimiz bu bilikləri Azərbaycanda və daha geniş ərazidəki öyrəncilərə, praktikantlara və tədqiqatçılara çatdırmaq idi.
+Kitab, məşhur Python kitabxanalarından istifadə edərək maşın öyrənməsi haqqında praktik anlayışlar və tətbiqi nümunələr təklif edir. Bizim məqsədimiz bu bilikləri Azərbaycanda və daha geniş ərazidəki istifadəcilərə, praktikantlara və tədqiqatçılara çatdırmaq idi.
 
 ### Töhfə Verənlər:
 - **Fəsil 1:** Lalə İbadullayeva
@@ -58,6 +58,6 @@ Kitab, məşhur Python kitabxanalarından istifadə edərək maşın öyrənməs
 - **Fəsil 19:** İbrahim Nizami oğlu | Rəy: Nihad Həşimov
 - **Giriş:** İbrahim Nizami oğlu | Rəy: Nihad Həşimov
 
-Komandamız tərcümənin düzgünlüyü və aydınlığını təmin etmək üçün çox çalışıb. Ümid edirik ki, bu təşəbbüs maşın öyrənməsi yolunda sizə kömək edəcək. Hər hansı bir səhv və ya təkmilləşdirmə üçün məsələlər açmağa və depoya töhfə verməyə dəvət edirik!
+Komandamız tərcümənin düzgünlüyü və aydınlığını təmin etmək üçün çox çalışıb. Ümid edirik ki, bu təşəbbüs maşın öyrənməsi yolunda sizə kömək edəcək. Hər hansı bir səhv və ya təkmilləşdirmə üçün repo`ya contribute edə bilərsiniz! 
 
 Project started from 20.11.2023 
